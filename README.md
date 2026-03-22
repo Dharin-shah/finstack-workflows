@@ -7,6 +7,9 @@ Pre-built n8n workflows powered by [finstack](https://github.com/Dharin-shah/fin
 ### [`/ib`](./ib) — IB Analyst Workflow
 Email-triggered investment banking research. Send a company name, get back a full IB-grade report with comps, valuation, M&A screening, and Excel attachment.
 
+### [`/er`](./er) — Earnings Call Sentiment Workflow
+Email-triggered earnings call sentiment analysis for Indian equities. Send a sector name, get back a ranked classification with top pick recommendation, credibility tracking, and sentiment charts.
+
 **One import. Two credentials. Done.**
 
 ## How It Works
